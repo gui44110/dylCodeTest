@@ -2,54 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="689e55c6-b7c2-4134-aef4-82241ada1527" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dylCodeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dylCodeTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/other/MapErgodic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/other/MapErgodic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ClassAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ClassAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ClassB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceTargetAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/InterfaceTargetAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ObjectAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/adapter/classAdapter/ObjectAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/MyInvocationHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/aop/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/cglib/CglibProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/cglib/CglibProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/findSort/ErClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/findSort/ErClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/BackObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/BackObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/BackObserverClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/BackObserverClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/BackObserverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/BackObserverClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/ObserverClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/ObserverClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/ObserverClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/observer/ObserverClassB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/other/MapErgodic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/other/MapErgodic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Resource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/pcModel/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/singleton/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/sort/SortClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/sort/SortClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/MyInvocationHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/Target.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/TargetInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/springProxy/TargetInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/TestSynchronized$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/TestSynchronized$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/TestSynchronized$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/TestSynchronized$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/TestSynchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/TestSynchronized.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/tree/binaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/tree/binaryTree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/tree/binaryTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/tree/binaryTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/reference/ReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/reference/ReferenceTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,38 +20,45 @@
     <session id="150828191">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.1" value="8" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="25" />
-          <entry key="xml" value="1" />
+          <entry key="java" value="45" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="25" />
-          <entry key="XML" value="1" />
+          <entry key="JAVA" value="45" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2492" />
-          <entry key="xml" value="1" />
+          <entry key="java" value="3668" />
+          <entry key="xml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2492" />
-          <entry key="XML" value="1" />
+          <entry key="JAVA" value="3668" />
+          <entry key="XML" value="25" />
         </counts>
       </usages-collector>
     </session>
@@ -105,91 +69,79 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="350">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/enumPackage/MyColor.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="800">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton3.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/collection/ListCollection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../../java/java1.8/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="988" column="7" selection-start-line="988" selection-start-column="7" selection-end-line="988" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton4.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/testAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="184">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="6" />
               <folding>
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton2.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/findSort/ErClass.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/json/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="327">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInteface2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -202,7 +154,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
+            <state relative-caret-position="675">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
@@ -215,16 +167,17 @@
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="Singleton" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>other1</find>
+      <find>parseObject</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -233,18 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/aop/User.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/aop/MyInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/Thread1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/TestSynchronized.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/producer-consumer/Resource.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/pc/Consumer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/pc/Resource.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/pc/Producer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/pc/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/pc/TestProduceConsume.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/pc/ProduceConsume.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/pc/Resource1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/pcModel/Resource.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/pcModel/Producer.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/pcModel/Consumer.java" />
@@ -265,13 +206,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/observer/ObserverClassA.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/observer/BackObserverClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/sort/SortClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/findSort/ErClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/Node.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/aop/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/other/MapErgodic.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/MainClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/LamabaTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/StreamJava8Test.java" />
@@ -284,6 +223,20 @@
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton2.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton3.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/spring/testAutoService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/spring/AutoService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/spring/AutoController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInterface.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInterfaceImple.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInteface2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/json/Persion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/json/TestJson.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/collection/ListCollection.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/json/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dyl/testAdd.java" />
       </list>
     </option>
   </component>
@@ -308,7 +261,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -349,30 +301,26 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dyl" type="462c0819:PsiDirectoryNode" />
-              <item name="enumPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dyl" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542878373387" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550049561539" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -394,37 +342,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReferenceTest">
+  <component name="RunManager" selected="Application.testAdd">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyl.tree.binaryTree.BinaryTree" />
-      <module name="dylCodeTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dyl.tree.binaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapErgodic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyl.other.MapErgodic" />
-      <module name="dylCodeTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dyl.other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -457,8 +377,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyl.json.TestJson" />
+      <module name="dylCodeTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyl.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyl.testAdd" />
+      <module name="dylCodeTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -504,19 +452,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryTree" />
-      <item itemvalue="Application.MapErgodic" />
       <item itemvalue="JUnit.MainClass.testStream" />
       <item itemvalue="Application.StreamJava8" />
       <item itemvalue="Application.ReferenceTest" />
+      <item itemvalue="Application.testAdd" />
+      <item itemvalue="Application.TestJson" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testAdd" />
+        <item itemvalue="Application.TestJson" />
         <item itemvalue="Application.ReferenceTest" />
         <item itemvalue="Application.StreamJava8" />
         <item itemvalue="JUnit.MainClass.testStream" />
-        <item itemvalue="Application.MapErgodic" />
-        <item itemvalue="Application.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -555,7 +503,21 @@
       <workItem from="1540517399238" duration="645000" />
       <workItem from="1540868681198" duration="2415000" />
       <workItem from="1541675007199" duration="1198000" />
-      <workItem from="1542873274089" duration="3127000" />
+      <workItem from="1542873274089" duration="5148000" />
+      <workItem from="1544000339915" duration="2083000" />
+      <workItem from="1545122086603" duration="1291000" />
+      <workItem from="1545615419072" duration="97000" />
+      <workItem from="1545820212768" duration="692000" />
+      <workItem from="1545904004100" duration="651000" />
+      <workItem from="1546424024337" duration="1556000" />
+      <workItem from="1546940395152" duration="599000" />
+      <workItem from="1547803886298" duration="2268000" />
+      <workItem from="1548037241611" duration="4039000" />
+      <workItem from="1548293549713" duration="1573000" />
+      <workItem from="1548381297372" duration="3579000" />
+      <workItem from="1548640229031" duration="5000" />
+      <workItem from="1548640276384" duration="33000" />
+      <workItem from="1550047520219" duration="1561000" />
     </task>
     <servers />
   </component>
@@ -571,12 +533,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83990000" />
+    <option name="totallyTimeSpent" value="106038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49324325" visible="true" weight="0.2700454" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49324325" visible="true" weight="0.21785174" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -585,16 +548,17 @@
       <window_info id="Favorites" order="6" sideWeight="0.5067568" side_tool="true" weight="0.2524013" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33497536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34154353" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23481117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29898074" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.0464716" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.58949095" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.36488813" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -613,113 +577,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/adapter/classAdapter/InterfaceAdapterImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/observer/BackObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/observer/ObserverClassB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/observer/ObserverClassA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/observer/BackObserverClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/sort/QKSortClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/springProxy/MyInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/TestSynchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/sort/SortClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/pcModel/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/pcModel/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/pcModel/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/adapter/classAdapter/ObjectAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/adapter/classAdapter/ClassAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/cglib/CglibProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/adapter/classAdapter/ClassB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/adapter/classAdapter/ClassA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -756,13 +613,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/JDKCLass.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/pcModel/Resource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
@@ -805,20 +655,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1675">
           <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,26 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -887,69 +704,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dylCodeTest.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/findSort/ErClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/enumPackage/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/enumPackage/B.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/enumPackage/MyColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -962,19 +721,200 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="350">
           <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/spring/testAutoService.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/spring/AutoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/spring/AutoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" selection-start-line="11" selection-start-column="20" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/findSort/ErClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../java/java1.8/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../java/java1.8/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInterfaceImple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.29/fastjson-1.2.29.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6550">
+          <caret line="304" column="24" selection-start-line="304" selection-start-column="24" selection-end-line="304" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.29/fastjson-1.2.29.jar!/com/alibaba/fastjson/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/aop/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/json/TestJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/collection/ListCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInteface2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dylCodeTest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../java/java1.8/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="988" column="7" selection-start-line="988" selection-start-column="7" selection-end-line="988" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/json/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/testAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -995,7 +935,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1035,7 +975,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
