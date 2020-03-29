@@ -1,9 +1,12 @@
 package com.dyl.jdk1_8;
 
-import java.util.Arrays;
-import java.util.IntSummaryStatistics;
-import java.util.List;
+import com.dyl.pcModel.Consumer;
+
+import java.sql.SQLOutput;
+import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class StreamJava8 {
 
@@ -24,5 +27,14 @@ public class StreamJava8 {
         IntSummaryStatistics stats = numbers.stream().mapToInt((x) ->x).summaryStatistics();
 
         System.out.println("最大值："+stats.getMax());
+
+        java.util.function.Consumer o =o1 ->  System.out.println(1);
+
+        new HashMap<>();
+
+        new ArrayList<>();
+
+
+
     }
 }

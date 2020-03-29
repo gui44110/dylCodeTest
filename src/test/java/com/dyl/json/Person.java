@@ -1,21 +1,16 @@
 package com.dyl.json;
 
-import lombok.Data;
-import lombok.EqualsAndHashCode;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 /**
  * @Author: dongyuliang@meicai.cn
  * @Date: 2019/1/18 17:32
  */
-@Getter
-@Setter
-@EqualsAndHashCode(of = {"age"})
+@Data
 public class Person {
 
     private String name;
 
-    private String age ;
+    private Integer age ;
 
 }

@@ -10,17 +10,15 @@ public class ABCThread  {
     public static void main(String[] args) {
         final Lock lock = new ReentrantLock();
 
-        Thread A = new Thread(new Runnable() {
-            public void run() {
-                while(count<29) {
-                    lock.lock();
-                    if(count%3==0){
-                        System.out.println("A");
-                        count++;
-                    }
-
-                    lock.unlock();
+        Thread A = new Thread(() -> {
+            while(count<29) {
+                lock.lock();
+                if(count%3==0){
+                    System.out.println("A");
+                    count++;
                 }
+
+                lock.unlock();
             }
         });
 

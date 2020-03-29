@@ -2,7 +2,7 @@ package com.dyl.singleton;
 
 public class Singleton {
 
-    private volatile  static Singleton singleton = null;
+    private static volatile Singleton singleton = null;
 
     private Singleton(){}
 

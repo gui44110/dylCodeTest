@@ -1,8 +1,8 @@
 package com.dyl.reference;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import org.springframework.util.CollectionUtils;
+
+import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
@@ -26,6 +26,7 @@ public class ReferenceTest {
         p2.setName("lisi");
         list.add(p2);
 
+        list.sort((Comparator.comparingInt(Person::getAge)));
         Map<Integer,Person> map = list.stream().collect(Collectors.toMap(Person::getAge, Function.identity()));
 
         Person p3 = map.get(1);
