@@ -1,1 +1,32 @@
-# Created by .ignore support plugin (hsz.mobi)
+# Lines that start with '#' are comments.
+
+# IntelliJ IDEA Project files
+.idea
+*.iml
+*.ipr
+*.iws
+out/
+target/
+
+# Eclipse Project files
+.classpath
+*.classpath
+.project
+*.project
+.settings/
+.springBeans
+*.springBeans
+
+bin/
+gen/
+local.properties
+
+.DS_Store
+Thumbs.db
+
+*.bak
+*.tem
+*.temp
+#.swp
+*.*~
+~*.*
