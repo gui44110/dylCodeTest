@@ -1,6 +1,11 @@
 package com.dyl.tree.binaryTree;
 
 
+import org.junit.Test;
+
+import java.util.LinkedList;
+import java.util.Stack;
+
 /**
  * 二叉树前序，中序，后序遍历方法
  */
@@ -25,7 +30,7 @@ public class BinaryTree {
 
     }
 
-    public void printNode(Node node){
+    public static void printNode(Node node){
         System.out.println(node.getData());
     }
 
@@ -33,7 +38,7 @@ public class BinaryTree {
      * 前序遍历方法
      * @param node
      */
-    public void theFirstTraversal(Node node){
+    public static void theFirstTraversal(Node node){
         printNode(node);
 
         if(node.getLeftNode()!=null){
@@ -44,6 +49,53 @@ public class BinaryTree {
             theFirstTraversal(node.getRightNode());
         }
 
+    }
+
+    /**
+     * 前序遍历 不使用递归的方式，实用stack的方式
+     * @param node
+     */
+    public static void theFirstTraversalStack(Node node){
+        Stack<Node> stack = new Stack<>();
+        Node root = node;
+        while (root!=null || !stack.isEmpty()){
+            while (root!=null){
+                System.out.print(root.getData() +" ");
+                stack.push(root);
+                root = root.getLeftNode();
+            }
+            if(!stack.isEmpty()){
+                Node pop = stack.pop();
+                root = pop.getRightNode();
+            }
+        }
+    }
+
+
+    public static void test(Node node){
+        Stack<Node> stack = new Stack<>();
+        Node root = node;
+        while (root!=null || !stack.isEmpty()){
+            while (root!=null){
+                System.out.println(root.getData());
+                stack.push(root);
+                root = root.getLeftNode();
+            }
+            if(!stack.isEmpty()){
+                Node pop = stack.pop();
+                root = pop.getRightNode();
+            }
+        }
+
+    }
+
+    /**
+     * 前序遍历的结果应该是 6，3，1，2，5，4，9，7，8
+     */
+    @Test
+    public void testTheFirstTraversal(){
+        Node init = init();
+        test(init);
     }
 
     /**
@@ -59,7 +111,50 @@ public class BinaryTree {
         if(node.getRightNode() != null){
             theMidTraversal(node.getRightNode());
         }
+
     }
+
+    /**
+     * 中序遍历
+     * @param node
+     */
+    public void theMidTraversalStack(Node node){
+        Stack<Node> stack = new Stack<>();
+        Node root = node;
+        while (root!=null || !stack.isEmpty()){
+            while (root!=null){
+                stack.push(root);
+                root = root.getLeftNode();
+            }
+            if(!stack.isEmpty()){
+                Node pop = stack.pop();
+                System.out.println(pop.getData());
+                root = pop.getRightNode();
+            }
+        }
+    }
+
+    public void practiseMid(Node node){
+        Stack<Node> stack = new Stack<>();
+        Node root = node;
+        while (root!=null || !stack.isEmpty()){
+            while (root!=null){
+                stack.push(root);
+                root = root.getLeftNode();
+            }
+            if(!stack.isEmpty()){
+                Node pop = stack.pop();
+                System.out.println(pop.getData());
+                root = pop.getRightNode();
+            }
+        }
+    }
+    @Test
+    public void testTheMidTraversal(){
+        Node init = init();
+        practiseMid(init);
+    }
+
 
     /**
      * 后序遍历
@@ -75,16 +170,75 @@ public class BinaryTree {
         printNode(node);
     }
 
-    public static void main(String[] args) {
-        BinaryTree binaryTree = new BinaryTree();
-        Node node = binaryTree.init();
+    @Test
+    public void testTheLast(){
+        Node init = init();
+        theLastTraversal(init);
+    }
 
-        System.out.println("-----前序遍历");
-        binaryTree.theFirstTraversal(node);
-        System.out.println("-----中序遍历");
-        binaryTree.theMidTraversal(node);
-        System.out.println("-----后序遍历");
-        binaryTree.theLastTraversal(node);
+
+
+    public void level(Node node){
+        LinkedList<Node> queue = new LinkedList<>();
+        Node root = node;
+        queue.add(node);
+        while (!queue.isEmpty()){
+            Node pop = queue.pop();
+            System.out.println(pop.getData());
+            if(pop.getLeftNode()!=null){
+                queue.add(pop.getLeftNode());
+            }
+            if(pop.getRightNode()!=null){
+                queue.add(pop.getRightNode());
+            }
+        }
+    }
+
+    @Test
+    public void testLevel(){
+        Node init = init();
+        level(init);
+    }
+
+
+    static int a = 0;
+    public static void main(String[] args) {
+//        BinaryTree binaryTree = new BinaryTree();
+//        Node node = binaryTree.init();
+//
+//        System.out.println("-----前序遍历");
+//        binaryTree.theFirstTraversal(node);
+//        System.out.println("-----中序遍历");
+//        binaryTree.theMidTraversal(node);
+//        System.out.println("-----后序遍历");
+//        binaryTree.theLastTraversal(node);
+//
+//        Thread.currentThread().interrupt();
+//        if(Thread.interrupted()){
+//            System.out.println(Thread.interrupted());
+//        }else{
+//            System.out.println(Thread.interrupted());
+//        }
+    int b = c();
+        System.out.println(b);
+
+
+    }
+
+    public static int b(){
+        return a ++ ;
+    }
+
+    public static int a(){
+        return a --;
+    }
+
+    public static int c(){
+        try{
+            return b();
+        }finally {
+            return a();
+        }
     }
 
 

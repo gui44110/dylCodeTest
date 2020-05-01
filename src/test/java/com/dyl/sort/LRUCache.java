@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @author dongyuliang
- * @date 2020-03-19 15:30
+ * @date 2020-04-15 15:30
  */
 public class LRUCache<K,V> extends LinkedHashMap<K,V> {
 

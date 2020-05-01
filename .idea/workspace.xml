@@ -2,157 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="689e55c6-b7c2-4134-aef4-82241ada1527" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/collection/ListCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/collection/ListCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/LamabaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/LamabaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/StreamJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/StreamJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/StreamJava8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/StreamJava8Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/json/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/json/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/json/TestJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/json/TestJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_29.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_api_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_api_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_common_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_common_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_entry_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_entry_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_execute_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_execute_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_merge_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_merge_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_optimize_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_optimize_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_common_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_common_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_mysql_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_mysql_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_oracle_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_oracle_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_postgresql_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_postgresql_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_spi_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_spi_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_sqlserver_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_parse_sqlserver_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_rewrite_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_rewrite_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_route_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_route_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_jdbc_core_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_jdbc_core_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_transaction_core_4_0_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_transaction_core_4_0_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_indy_2_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_indy_2_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_27_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_27_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dylCodeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dylCodeTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/Tian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/Tian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/sort/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/sort/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/sort/SortClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/sort/SortClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/dylCodeTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/collection/ListCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/collection/ListCollection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/LamabaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/LamabaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/algorithm/MySolve.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/algorithm/MySolve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/bossSort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/bossSort/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/designParten/decorater/Tian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/designParten/decorater/Tian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/MainClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/StreamJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/StreamJava8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/StreamJava8Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/jdk1_8/StreamJava8Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/json/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/json/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/json/TestJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/json/TestJson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/reference/ReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/reference/ReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/javaDe/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/javaDe/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/javaDe/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/javaDe/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/sort/BaseSort$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/sort/BaseSort$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/sort/BaseSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/mianshi/sort/BaseSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/other/MapErgodic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/other/MapErgodic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/sort/SortClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/sort/SortClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/thread/ABCThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/toString/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/toString/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dyl/tree/binaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dyl/tree/binaryTree/BinaryTree.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="dylCodeTest" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1223">
-              <caret line="86" column="42" lean-forward="true" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="2155" column="26" selection-start-line="2155" selection-start-column="26" selection-end-line="2155" selection-end-column="26" />
-              <folding>
-                <element signature="e#19296#19297#0" expanded="true" />
-                <element signature="e#19379#19380#0" expanded="true" />
-                <element signature="e#24298#24299#0" expanded="true" />
-                <element signature="e#24363#24364#0" expanded="true" />
-                <element signature="e#66531#66532#0" expanded="true" />
-                <element signature="e#66588#66589#0" expanded="true" />
-                <element signature="e#71254#71255#0" expanded="true" />
-                <element signature="e#71336#71337#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-142">
-              <caret line="1022" column="44" lean-forward="true" selection-start-line="1022" selection-start-column="44" selection-end-line="1022" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="234" column="50" lean-forward="true" selection-start-line="234" selection-start-column="50" selection-end-line="234" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4307#4308#0" expanded="true" />
-                <element signature="e#4347#4348#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/C.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -167,103 +131,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>lock</find>
-      <find>Integer valueOf</find>
-      <find>valueof</find>
-      <find>acquire(</find>
-      <find>collect</find>
-      <find>collect(</find>
-      <find>Person</find>
-      <find>parseOj</find>
-      <find>DEFAULT_INITIAL_CAPACITY</find>
-      <find>aop</find>
-      <find>Stream</find>
-      <find>stream</find>
-      <find>stream(</find>
-      <find>tab</find>
-      <find>reduce</find>
-      <find>newArrayList</find>
-      <find>iterator</find>
-      <find>listIterator</find>
-      <find>set</find>
-      <find>get</find>
-      <find>ensureCapacity</find>
-      <find>DEFAULTCAPACITY_EMPTY_ELEMENTDATA</find>
-      <find>add</find>
-      <find>putVal</find>
-      <find>Thread</find>
-      <find>volatile</find>
-      <find>node1</find>
-      <find>put</find>
-      <find>put(</find>
-      <find>= 6</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>System.out.println</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/MyInteface2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/json/Persion.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/testAdd.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/redisLock/RedisLock.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/TestThree.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/algorithm/Problem2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/algorithm/MyProblem.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/algorithm/Problem.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/lock/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/json/Person.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/json/Man.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/algorithm/MySolve.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/json/TestJson.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/genericity/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/genericity/Animal.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/genericity/Dog.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/continue/ContinueClass.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/AbsClassA.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/ServiceA.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/ServiceAImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/StreamJava8Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/collection/ListCollection.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/LamabaTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/fastJson/ClassDetail.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/collection/MapCollection.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/annotation/DemoAnnotation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/annotation/DemoAnnotationHandler.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/generic/Demo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/generic/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/jdk1_8/StreamJava8.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/toString/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/coffee.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/KuCoffee.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/sort/LruCache.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/sort/MyLruCache.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/JUC/Reent.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/sort/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/sort/SortClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/Tian.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/bossSort/Sort.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/User.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/C.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/A.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/B.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -271,137 +140,72 @@
         <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0-bin" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dylCodeTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dylCodeTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1380" />
-    <option name="height" value="742" />
-  </component>
+  <component name="ProjectId" id="1aLky9MKhvjwQK0OYoVsdcpeuYE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dyl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dyl" type="462c0819:PsiDirectoryNode" />
-              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dyl" type="462c0819:PsiDirectoryNode" />
-              <item name="reference" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dylCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dylCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dyl" type="462c0819:PsiDirectoryNode" />
-              <item name="binaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550049561539" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/sku-service" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586497792875" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dyl.adapter.classAdapter" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.BaseSort.testSort10">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyl.pcModel.Test" />
+      <module name="dylCodeTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyl.pcModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyl.designParten.decorater.Tian" />
+      <module name="dylCodeTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyl.designParten.decorater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -412,24 +216,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseSort.testSort10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortClass.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dylCodeTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyl.mianshi.sort.*" />
+          <option name="PATTERN" value="com.dyl.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.dyl.mianshi.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.dyl.mianshi.sort.BaseSort" />
-      <option name="METHOD_NAME" value="testSort10" />
+      <option name="PACKAGE_NAME" value="com.dyl.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.dyl.sort.SortClass" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseSort.testSort5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackSort.simplifyPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dylCodeTest" />
       <extension name="coverage">
         <pattern>
@@ -438,15 +242,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.dyl.mianshi.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.dyl.mianshi.sort.BaseSort" />
-      <option name="METHOD_NAME" value="testSort5" />
+      <option name="MAIN_CLASS_NAME" value="com.dyl.mianshi.sort.StackSort" />
+      <option name="METHOD_NAME" value="simplifyPath" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseSort.testSort6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackSort.testIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dylCodeTest" />
       <extension name="coverage">
         <pattern>
@@ -455,42 +259,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.dyl.mianshi.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.dyl.mianshi.sort.BaseSort" />
-      <option name="METHOD_NAME" value="testSort6" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseSort.testSort7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="dylCodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dyl.mianshi.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dyl.mianshi.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.dyl.mianshi.sort.BaseSort" />
-      <option name="METHOD_NAME" value="testSort7" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseSort.testSort8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="dylCodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dyl.mianshi.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dyl.mianshi.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.dyl.mianshi.sort.BaseSort" />
-      <option name="METHOD_NAME" value="testSort8" />
+      <option name="MAIN_CLASS_NAME" value="com.dyl.mianshi.sort.StackSort" />
+      <option name="METHOD_NAME" value="testIsValid" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -523,21 +293,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BaseSort.testSort5" />
-      <item itemvalue="JUnit.BaseSort.testSort6" />
-      <item itemvalue="JUnit.BaseSort.testSort7" />
-      <item itemvalue="JUnit.BaseSort.testSort8" />
-      <item itemvalue="JUnit.BaseSort.testSort10" />
+      <item itemvalue="Application.Tian" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JUnit.SortClass.test" />
+      <item itemvalue="JUnit.StackSort.testIsValid" />
+      <item itemvalue="JUnit.StackSort.simplifyPath" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BaseSort.testSort10" />
-        <item itemvalue="JUnit.BaseSort.testSort8" />
-        <item itemvalue="JUnit.BaseSort.testSort7" />
-        <item itemvalue="JUnit.BaseSort.testSort6" />
-        <item itemvalue="JUnit.BaseSort.testSort5" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Tian" />
+        <item itemvalue="JUnit.StackSort.simplifyPath" />
+        <item itemvalue="JUnit.StackSort.testIsValid" />
+        <item itemvalue="JUnit.SortClass.test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_ANONYMOUS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -654,116 +427,107 @@
       <workItem from="1584152514049" duration="20584000" />
       <workItem from="1585039508175" duration="1228000" />
       <workItem from="1585148069570" duration="43966000" />
+      <workItem from="1585477624312" duration="45390000" />
+      <workItem from="1586083808851" duration="7233000" />
+      <workItem from="1586246535276" duration="11069000" />
+      <workItem from="1586522531001" duration="3044000" />
+      <workItem from="1586585144464" duration="15166000" />
+      <workItem from="1586682131315" duration="15607000" />
+      <workItem from="1586757641870" duration="34000" />
+      <workItem from="1586757726507" duration="45000" />
+      <workItem from="1586757798127" duration="16697000" />
+      <workItem from="1587119343939" duration="28000" />
+      <workItem from="1587119424725" duration="59000" />
+      <workItem from="1587119672719" duration="301000" />
+      <workItem from="1587120129968" duration="1326000" />
+      <workItem from="1587193830594" duration="11230000" />
+      <workItem from="1587377268847" duration="851000" />
+      <workItem from="1587476261537" duration="709000" />
+      <workItem from="1587623932826" duration="47385000" />
+      <workItem from="1588312494666" duration="1676000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="BaseSort_testSort6 - 2020.03.28 at 14h 41m 26s.xml">
-      <configuration name="BaseSort.testSort6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort7 - 2020.03.28 at 15h 00m 20s.xml">
-      <configuration name="BaseSort.testSort7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort7 - 2020.03.28 at 15h 03m 52s.xml">
-      <configuration name="BaseSort.testSort7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort7 - 2020.03.28 at 15h 08m 20s.xml">
-      <configuration name="BaseSort.testSort7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort8 - 2020.03.28 at 15h 14m 05s.xml">
-      <configuration name="BaseSort.testSort8" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort8 - 2020.03.28 at 15h 15m 37s.xml">
-      <configuration name="BaseSort.testSort8" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort10 - 2020.03.28 at 16h 16m 07s.xml">
-      <configuration name="BaseSort.testSort10" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort10 - 2020.03.28 at 16h 16m 23s.xml">
-      <configuration name="BaseSort.testSort10" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort10 - 2020.03.28 at 16h 17m 01s.xml">
-      <configuration name="BaseSort.testSort10" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BaseSort_testSort10 - 2020.03.28 at 16h 18m 02s.xml">
-      <configuration name="BaseSort.testSort10" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320393000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7491803" visible="true" weight="0.295764" />
-      <window_info id="Structure" order="1" sideWeight="0.78688526" weight="0.2322239" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.25081968" side_tool="true" weight="0.12178517" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.14918032" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12622951" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.22295082" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.13114753" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.34918034" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" visible="true" weight="0.18003026" />
-      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4918033" visible="true" weight="0.18759455" />
-      <window_info id="Structure" order="1" sideWeight="0.8803279" weight="0.2965204" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.119672135" side_tool="true" weight="0.28290468" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.33497536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15081967" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.22668113" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.13114753" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.35573772" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" visible="true" weight="0.06202723" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1587958814696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587958814696" />
+    <state x="516" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586706257651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1586706257651" />
+    <state x="823" y="110" key="#xdebugger.evaluate" timestamp="1587624617073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="823" y="110" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587624617073" />
+    <state x="272" y="6" key="CommitChangelistDialog2" timestamp="1588314560734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588314560734" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1588314559494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1588314559494" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588314563878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588314563878" />
+    <state width="746" height="75" key="GridCell.Tab.0.bottom" timestamp="1587965121609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="75" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587965121609" />
+    <state width="746" height="75" key="GridCell.Tab.0.center" timestamp="1587965121608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="75" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587965121608" />
+    <state width="746" height="75" key="GridCell.Tab.0.left" timestamp="1587965121607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="75" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587965121607" />
+    <state width="746" height="75" key="GridCell.Tab.0.right" timestamp="1587965121608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="75" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587965121608" />
+    <state width="746" height="55" key="GridCell.Tab.1.bottom" timestamp="1587965121541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="55" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587965121541" />
+    <state width="746" height="55" key="GridCell.Tab.1.center" timestamp="1587965121540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="55" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587965121540" />
+    <state width="746" height="55" key="GridCell.Tab.1.left" timestamp="1587965121540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="55" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587965121540" />
+    <state width="746" height="55" key="GridCell.Tab.1.right" timestamp="1587965121541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="55" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587965121541" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1588314578300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588314578300" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588312493137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588312493137" />
+    <state x="442" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586586664425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1586586664425" />
+    <state x="377" y="112" width="782" height="600" key="find.popup" timestamp="1587623967675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="112" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587623967675" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587960738284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587960738284" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -771,50 +535,87 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/collection/MapCollection.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/toString/Test.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/Tian.java</url>
-          <line>48</line>
-          <properties />
+          <line>58</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/Tian.java</url>
-          <line>49</line>
-          <properties />
+          <line>59</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/bossSort/Sort.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/bossSort/Sort.java</url>
           <line>87</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/User.java</url>
           <line>55</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java</url>
-          <line>167</line>
-          <properties />
+          <line>267</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java</url>
+          <line>236</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java</url>
+          <line>488</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java</url>
+          <line>575</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/just/Just.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/just/Just.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/StackSort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/StackSort.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/Tian.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/toString/Test.java</url>
@@ -826,7 +627,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java</url>
-          <line>263</line>
+          <line>635</line>
           <properties class="com.dyl.mianshi.sort.BaseSort" method="main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -834,732 +635,29 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java</url>
-          <line>239</line>
+          <line>607</line>
           <properties class="com.dyl.mianshi.sort.BaseSort" method="testSort5">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java</url>
+          <line>598</line>
+          <properties class="com.dyl.mianshi.sort.BaseSort" method="testSort15">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dyl/sort/SortClass.java</url>
+          <line>420</line>
+          <properties class="com.dyl.sort.SortClass" method="sort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="181" column="27" selection-start-line="181" selection-start-column="27" selection-end-line="181" selection-end-column="27" />
-          <folding>
-            <element signature="e#4990#4991#0" expanded="true" />
-            <element signature="e#5047#5048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="341" column="22" lean-forward="true" selection-start-line="341" selection-start-column="22" selection-end-line="341" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/concurrent/SynchronousQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22484">
-          <caret line="854" column="11" selection-start-line="854" selection-start-column="11" selection-end-line="854" selection-end-column="11" />
-          <folding>
-            <element signature="e#34990#34991#0" expanded="true" />
-            <element signature="e#35017#35018#0" expanded="true" />
-            <element signature="e#35291#35292#0" expanded="true" />
-            <element signature="e#35374#35375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1189" column="11" selection-start-line="1189" selection-start-column="11" selection-end-line="1189" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="181" column="31" selection-start-line="181" selection-start-column="31" selection-end-line="181" selection-end-column="31" />
-          <folding>
-            <element signature="e#15480#15481#0" expanded="true" />
-            <element signature="e#15546#15547#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="158" column="16" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="16" />
-          <folding>
-            <element signature="e#4309#4310#0" expanded="true" />
-            <element signature="e#4336#4337#0" expanded="true" />
-            <element signature="e#7765#7766#0" expanded="true" />
-            <element signature="e#7802#7803#0" expanded="true" />
-            <element signature="e#9327#9328#0" expanded="true" />
-            <element signature="e#9399#9400#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/lang/ref/WeakReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/lang/ref/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="217" column="58" selection-start-line="217" selection-start-column="42" selection-end-line="217" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.HashMap.TreeNode">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.HashMap.TreeNode</OriginalElement>
-          <nodes>
-            <node x="0.0" y="228.0">java.util.HashMap.TreeNode</node>
-            <node x="12.0" y="76.0">java.util.HashMap.Node</node>
-            <node x="9.0" y="152.0">java.util.LinkedHashMap.Entry</node>
-            <node x="9.0" y="0.0">java.util.Map.Entry</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.HashMap.Node" target="java.util.Map.Entry">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="java.util.HashMap.TreeNode" target="java.util.LinkedHashMap.Entry">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="java.util.LinkedHashMap.Entry" target="java.util.HashMap.Node">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-223.0" y="118.0" />
-          <SelectedNodes>
-            <node>java.util.LinkedHashMap.Entry</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3210">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-          <folding>
-            <element signature="e#33104#33105#0" expanded="true" />
-            <element signature="e#33178#33179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5220">
-          <caret line="374" column="14" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47040">
-          <caret line="3207" column="28" selection-start-line="3207" selection-start-column="28" selection-end-line="3207" selection-end-column="28" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-            <element signature="e#177353#177354#0" expanded="true" />
-            <element signature="e#177410#177411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4740">
-          <caret line="373" selection-start-line="373" selection-end-line="373" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/com/sun/corba/se/impl/orbutil/DenseIntMapImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/findSort/ErClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/sort/MyLruCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1262#1263#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
-            <element signature="e#1438#1439#0" expanded="true" />
-            <element signature="e#1479#1480#0" expanded="true" />
-            <element signature="e#1521#1522#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="50" column="76" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractXmlApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="44" column="98" selection-start-line="44" selection-start-column="98" selection-end-line="44" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="38" column="93" selection-start-line="38" selection-start-column="93" selection-end-line="38" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="63" column="85" selection-start-line="63" selection-start-column="85" selection-end-line="63" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="124" column="36" selection-start-line="124" selection-start-column="36" selection-end-line="124" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/context/ApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.context.support.ClassPathXmlApplicationContext">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.context.support.ClassPathXmlApplicationContext</OriginalElement>
-          <nodes>
-            <node x="0.0" y="76.0">org.springframework.beans.factory.HierarchicalBeanFactory</node>
-            <node x="1159.9333333333334" y="0.0">org.springframework.core.io.ResourceLoader</node>
-            <node x="1216.0" y="542.0">org.springframework.context.support.AbstractXmlApplicationContext</node>
-            <node x="1029.9266666666667" y="314.0">org.springframework.beans.factory.Aware</node>
-            <node x="1095.0" y="76.0">java.lang.AutoCloseable</node>
-            <node x="474.48333333333335" y="162.0">org.springframework.context.ApplicationContext</node>
-            <node x="1434.4266666666667" y="390.0">org.springframework.beans.factory.InitializingBean</node>
-            <node x="1172.0" y="466.0">org.springframework.context.support.AbstractRefreshableConfigApplicationContext</node>
-            <node x="795.5583333333334" y="162.0">org.springframework.context.Lifecycle</node>
-            <node x="1181.4266666666667" y="314.0">org.springframework.context.support.AbstractApplicationContext</node>
-            <node x="1238.0" y="76.0">org.springframework.core.io.DefaultResourceLoader</node>
-            <node x="710.1916666666667" y="238.0">org.springframework.context.ConfigurableApplicationContext</node>
-            <node x="1334.0" y="238.0">org.springframework.beans.factory.DisposableBean</node>
-            <node x="507.0" y="76.0">org.springframework.core.env.EnvironmentCapable</node>
-            <node x="135.3850000000001" y="0.0">org.springframework.beans.factory.BeanFactory</node>
-            <node x="1107.5" y="162.0">java.io.Closeable</node>
-            <node x="881.0" y="76.0">org.springframework.context.ApplicationEventPublisher</node>
-            <node x="1213.0" y="618.0">org.springframework.context.support.ClassPathXmlApplicationContext</node>
-            <node x="679.0" y="76.0">org.springframework.core.io.support.ResourcePatternResolver</node>
-            <node x="1006.4266666666667" y="390.0">org.springframework.beans.factory.BeanNameAware</node>
-            <node x="1148.4266666666667" y="390.0">org.springframework.context.support.AbstractRefreshableApplicationContext</node>
-            <node x="364.0" y="76.0">org.springframework.context.MessageSource</node>
-            <node x="194.0" y="76.0">org.springframework.beans.factory.ListableBeanFactory</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.env.EnvironmentCapable">
-              <point x="12.75" y="-13.0" />
-              <point x="563.7333333333333" y="142.0" />
-              <point x="583.0" y="142.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractXmlApplicationContext" target="org.springframework.context.support.AbstractRefreshableConfigApplicationContext">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" target="org.springframework.beans.factory.BeanNameAware">
-              <point x="-101.0" y="-13.0" />
-              <point x="1222.5" y="441.0" />
-              <point x="1067.4266666666667" y="441.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.core.io.support.ResourcePatternResolver" target="org.springframework.core.io.ResourceLoader">
-              <point x="0.0" y="-13.0" />
-              <point x="770.0" y="51.0" />
-              <point x="1192.1833333333334" y="51.0" />
-              <point x="-32.25" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" target="org.springframework.context.support.AbstractRefreshableApplicationContext">
-              <point x="0.0" y="-13.0" />
-              <point x="1323.5" y="441.0" />
-              <point x="1281.4266666666667" y="441.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.beans.factory.HierarchicalBeanFactory" target="org.springframework.beans.factory.BeanFactory">
-              <point x="0.0" y="-13.0" />
-              <point x="87.0" y="51.0" />
-              <point x="160.8850000000001" y="51.0" />
-              <point x="-25.5" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.core.io.DefaultResourceLoader">
-              <point x="0.0" y="-13.0" />
-              <point x="1281.4266666666667" y="289.0" />
-              <point x="1323.5" y="289.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" target="org.springframework.beans.factory.InitializingBean">
-              <point x="101.0" y="-13.0" />
-              <point x="1424.5" y="441.0" />
-              <point x="1504.9266666666667" y="441.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.beans.factory.ListableBeanFactory" target="org.springframework.beans.factory.BeanFactory">
-              <point x="0.0" y="-13.0" />
-              <point x="269.0" y="51.0" />
-              <point x="211.8850000000001" y="51.0" />
-              <point x="25.5" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractRefreshableApplicationContext" target="org.springframework.context.support.AbstractApplicationContext">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.core.io.DefaultResourceLoader" target="org.springframework.core.io.ResourceLoader">
-              <point x="0.0" y="-13.0" />
-              <point x="1323.5" y="51.0" />
-              <point x="1256.6833333333334" y="51.0" />
-              <point x="32.25" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.beans.factory.DisposableBean">
-              <point x="66.66666666666669" y="-13.0" />
-              <point x="1348.0933333333332" y="289.0" />
-              <point x="1398.0" y="289.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.ApplicationContext">
-              <point x="-74.66666666666674" y="-13.0" />
-              <point x="747.525" y="213.0" />
-              <point x="550.9833333333333" y="213.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.beans.factory.BeanNameAware" target="org.springframework.beans.factory.Aware">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.HierarchicalBeanFactory">
-              <point x="-63.75" y="-13.0" />
-              <point x="487.23333333333335" y="142.0" />
-              <point x="87.0" y="142.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ConfigurableApplicationContext" target="java.io.Closeable">
-              <point x="74.66666666666663" y="-13.0" />
-              <point x="896.8583333333333" y="213.0" />
-              <point x="1156.5" y="213.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.ApplicationEventPublisher">
-              <point x="63.75" y="-13.0" />
-              <point x="614.7333333333333" y="142.0" />
-              <point x="978.0" y="142.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.MessageSource">
-              <point x="-12.75" y="-13.0" />
-              <point x="538.2333333333333" y="122.0" />
-              <point x="425.5" y="122.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.ListableBeanFactory">
-              <point x="-38.25" y="-13.0" />
-              <point x="512.7333333333333" y="132.0" />
-              <point x="269.0" y="132.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.ClassPathXmlApplicationContext" target="org.springframework.context.support.AbstractXmlApplicationContext">
-              <point x="0.0" y="-13.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.io.support.ResourcePatternResolver">
-              <point x="38.25" y="-13.0" />
-              <point x="589.2333333333333" y="132.0" />
-              <point x="770.0" y="132.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.context.ConfigurableApplicationContext">
-              <point x="-66.66666666666669" y="-13.0" />
-              <point x="1214.76" y="289.0" />
-              <point x="822.1916666666667" y="289.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.Lifecycle">
-              <point x="0.0" y="-13.0" />
-              <point x="822.1916666666667" y="213.0" />
-              <point x="845.0583333333334" y="213.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.9319922128487994" x="263.0" y="217.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/JUC/Reent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4755">
-          <caret line="345" column="11" selection-start-line="345" selection-start-column="11" selection-end-line="345" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/sort/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="138" selection-start-line="138" selection-end-line="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.8.RELEASE/spring-beans-4.2.8.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="113" column="100" selection-start-line="113" selection-start-column="100" selection-end-line="113" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/designParten/decorater/Tian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="460" column="5" lean-forward="true" selection-start-line="460" selection-start-column="5" selection-end-line="460" selection-end-column="5" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-            <element signature="e#30347#30348#0" expanded="true" />
-            <element signature="e#30384#30385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/enumPackage/MyColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/thread/ABCThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/sort/SortClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-750">
-          <caret line="40" selection-start-line="40" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/bossSort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="113" column="19" lean-forward="true" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#1755#1756#0" expanded="true" />
-            <element signature="e#1790#1791#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="74" column="33" lean-forward="true" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/concurrent/ConcurrentMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142">
-          <caret line="1022" column="44" lean-forward="true" selection-start-line="1022" selection-start-column="44" selection-end-line="1022" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/javaDe/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/mianshi/sort/BaseSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="234" column="50" lean-forward="true" selection-start-line="234" selection-start-column="50" selection-end-line="234" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4307#4308#0" expanded="true" />
-            <element signature="e#4347#4348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="2155" column="26" selection-start-line="2155" selection-start-column="26" selection-end-line="2155" selection-end-column="26" />
-          <folding>
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-            <element signature="e#66531#66532#0" expanded="true" />
-            <element signature="e#66588#66589#0" expanded="true" />
-            <element signature="e#71254#71255#0" expanded="true" />
-            <element signature="e#71336#71337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/reference/ReferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dyl/tree/binaryTree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1223">
-          <caret line="86" column="42" lean-forward="true" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>dylCodeTest</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: cglib:cglib:3.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
