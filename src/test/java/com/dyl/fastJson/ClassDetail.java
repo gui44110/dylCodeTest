@@ -23,17 +23,14 @@ public class ClassDetail {
     }
 
     @Test
-    public void testJSONObject(){
-        Long a = 12L;
-        String c = a.toString();
-        Object o = JSONObject.toJSON(a).toString();
-        System.out.println(JSONObject.parseObject(c));
-    }
-
-
-    @Test
     public void testA(){
         Map map = new HashMap<>();
         String  a = "";
+    }
+
+    @Test
+    public void testJSONObject(){
+        String str = "{\"person\":{\"id\":1234}}";
+        JSONObject jsonObject = JSONObject.parseObject(str, JSONObject.class);
     }
 }

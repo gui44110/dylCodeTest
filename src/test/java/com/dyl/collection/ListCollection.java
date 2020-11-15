@@ -38,9 +38,10 @@ public class ListCollection {
 
         list.add(m3);
 
-        List<Man> men = list.subList(2,3);
+        List<Man> men = list.subList(0,0);
 
         System.out.println(men.toString());
 
     }
+
 }

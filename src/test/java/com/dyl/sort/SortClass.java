@@ -141,7 +141,7 @@ public class SortClass {
 
 
     /**
-     * 堆排序
+     *
      * @param a
      */
     public static void heapSort(int[] a){

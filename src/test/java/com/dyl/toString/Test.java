@@ -1,14 +1,8 @@
 package com.dyl.toString;
 
-import com.dyl.reference.Person;
-import com.google.common.collect.Lists;
-import com.google.common.collect.Maps;
-import org.springframework.util.CollectionUtils;
-
-import java.lang.reflect.Method;
-import java.math.BigDecimal;
-import java.util.*;
-import java.util.concurrent.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.concurrent.ExecutionException;
 
 /**
  * @author dongyuliang
@@ -16,7 +10,7 @@ import java.util.concurrent.*;
  */
 public class Test {
 
-    public static void main(String[] args) throws NoSuchMethodException, ExecutionException, InterruptedException {
+    public static void main(String[] args) throws NoSuchMethodException, ExecutionException, InterruptedException, ParseException {
 
         Integer a = new Integer(1);
         System.out.println(1 == 1L);
@@ -47,17 +41,17 @@ public class Test {
 //        Spliterator<String> spliterator = list.spliterator();
 //
 //        HashMap<Object, Object> objectObjectHashMap = Maps.newHashMap();
-        ExecutorService executorService = Executors.newCachedThreadPool();
-        Future<Object> future = executorService.submit(() -> {
-            System.out.println("验证空指针问题");
-            return null;
-        });
-        System.out.println("-----------");
-        future.get();
+//        ExecutorService executorService = Executors.newCachedThreadPool();
+//        Future<Object> future = executorService.submit(() -> {
+//            System.out.println("验证空指针问题");
+//            return null;
+//        });
+//        System.out.println("-----------");
+//        future.get();
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+        System.out.println(sdf.parse("2020-03-01").getTime());
 
     }
-
-
 
     public static <T extends Number & Comparable<? super T>> T min(T[] values){
         if(values == null || values.length == 0){
