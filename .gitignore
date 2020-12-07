@@ -30,10 +30,4 @@ Thumbs.db
 #.swp
 *.*~
 ~*.*
-src/test/java/com/dyl/code/leetcode/dtgh/
-src/test/java/com/dyl/code/leetcode/find/
-src/test/java/com/dyl/code/leetcode/linked/
-src/test/java/com/dyl/code/leetcode/thread/
-src/test/java/com/dyl/code/other/
-src/test/java/com/dyl/code/sort/
-src/test/java/com/dyl/thread/FutureTaskDemo.java
+
