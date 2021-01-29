@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="dylCodeTest" target="1.8" />
+      <module name="dylCodeTest" target="1.8.0_45" />
     </bytecodeTargetLevel>
   </component>
 </project>
