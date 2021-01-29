@@ -5,6 +5,7 @@
 *.iml
 *.ipr
 *.iws
+.idea/workspace.xml
 out/
 target/
 
