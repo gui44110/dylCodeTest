@@ -1,4 +1,5 @@
 import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
 import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import org.apache.commons.lang3.StringUtils;
@@ -133,6 +134,8 @@ public class TemClass {
         Stack<Integer> stack = new Stack<>();
 
         Queue<Integer> queue = new ArrayDeque<>();
+
+        HashMap<Object, Object> objectObjectHashMap = Maps.newHashMap();
 
     }
 
