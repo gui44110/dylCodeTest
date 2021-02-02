@@ -1,10 +1,10 @@
-package com.dyl.code.top100;
+package com.dyl.code.top100.between10;
 
 /**
- * @Classname Problem1
+ * @Classname
  * @Description TODO
  * @Date 31.1.21 8:46 下午
  * @Created by dongyuliang
  */
-public class Problem10 {
+public class Problem9 {
 }

@@ -1,4 +1,4 @@
-package com.dyl.code.top100;
+package com.dyl.code.top100.between10;
 
 /**
  * @Classname Problem1
@@ -6,5 +6,5 @@ package com.dyl.code.top100;
  * @Date 31.1.21 8:46 下午
  * @Created by dongyuliang
  */
-public class Problem9 {
+public class Problem10 {
 }

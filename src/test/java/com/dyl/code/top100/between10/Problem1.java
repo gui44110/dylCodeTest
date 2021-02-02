@@ -1,4 +1,4 @@
-package com.dyl.code.top100;
+package com.dyl.code.top100.between10;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.dyl.code.top100;
+package com.dyl.code.top100.between10;
 
 import com.dyl.code.leetcode.linked.ListNode;
 import com.google.common.collect.Lists;
