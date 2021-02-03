@@ -1,8 +1,6 @@
 package com.dyl.code.leetcode.tanxin;
 
-import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**

@@ -1,7 +1,4 @@
-package com.dyl.code.top100.between20;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.dyl.code.leetcode.top100.between20;
 
 /**
  * @Classname Problem1

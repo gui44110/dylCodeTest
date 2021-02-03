@@ -1,4 +1,4 @@
-package com.dyl.code.top100.between20;
+package com.dyl.code.leetcode.top100.between20;
 
 /**
  * @Classname

@@ -1,4 +1,4 @@
-package com.dyl.code.leetcode.thread.abc;
+package com.dyl.code.other;
 
 /**
  * @Classname CircularPrintABC
