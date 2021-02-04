@@ -40,10 +40,6 @@ public class Problem14 {
 
 
 
-
-
-
-
         class ListNode {
             int val;
             ListNode next;
