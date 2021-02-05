@@ -30,12 +30,14 @@ public class Problem18 {
         if(left == right){
             return lists[left];
         }
-        if(right > left){
+        if(left > right){
             return null;
         }
         int mid = (right + left)/2;
         return mergeTwoListNode(merge(lists,left,mid),merge(lists,mid + 1,right));
     }
+
+
 
     public ListNode mergeTwoListNode(ListNode left,ListNode right){
 
@@ -61,6 +63,15 @@ public class Problem18 {
     }
 
 
+    public static void main(String[] args) {
+        ListNode listNode0 = new ListNode(3, new ListNode(4, null));
+        ListNode listNode1 = new ListNode(2,new ListNode(3,null));
+        ListNode[] result = new ListNode[2];
+        result[0] = listNode0;
+        result[1] = listNode1;
+        Problem18 problem18 = new Problem18();
+        ListNode listNode = problem18.mergeKLists(result);
+    }
 
 
 
@@ -71,7 +82,9 @@ public class Problem18 {
 
 
 
-      public class ListNode {
+
+
+    static class ListNode {
           int val;
           ListNode next;
 
