@@ -16,10 +16,16 @@ package com.dyl.code.leetcode.top100.between20;
  * 链接：https://leetcode-cn.com/problems/implement-strstr
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *
+ *
+ * 解法
+ * kmp算法，搞不懂
+ *
+ *
  * @Date 5.2.21 4:18 下午
  * @Created by dongyuliang
  */
 public class Problem20 {
+
 
 
 
