@@ -1,7 +1,7 @@
 package com.dyl.mianshi;
 
 import com.alibaba.fastjson.JSONArray;
-import com.dyl.sort.SortClass;
+import com.dyl.sort.eightSort.SortClass;
 
 import java.util.Iterator;
 import java.util.List;

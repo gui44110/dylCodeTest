@@ -138,6 +138,11 @@ public class TemClass {
 
         HashMap<Object, Object> objectObjectHashMap = Maps.newHashMap();
 
+        Queue<Integer> queue1 = new LinkedList<>();
+        queue1.add(1);
+        queue1.offer(2);
+        queue1.poll();
+
 
     }
 
